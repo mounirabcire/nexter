@@ -35,5 +35,5 @@
 
 ## Demo 📸
 
--   You can start exploring the website here: [trillo](https://next-er.vercel.app/ "nexter")
+-   You can start exploring the website here: [nexter](https://next-er.vercel.app/ "nexter")
 
