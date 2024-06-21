@@ -27,7 +27,7 @@
 
 -   Clone the repository to your machine: `https://github.com/mounirabcire/nexter.git`
 
--   Install dependencies: `cd trillo` `npm install`
+-   Install dependencies: `cd nexter` `npm install`
 
 -   Open up your live server
 
